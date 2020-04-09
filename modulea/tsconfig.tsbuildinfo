@@ -1,0 +1,54 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../../../usr/local/cellar/node/12.6.0/lib/node_modules/typescript/lib/lib.d.ts": {
+        "version": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0",
+        "signature": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0"
+      },
+      "../../../../../usr/local/cellar/node/12.6.0/lib/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "b42eddba1a53c9d27279cfe7fc0416c10a81489826ad47e39013b9d340fc0cc7",
+        "signature": "b42eddba1a53c9d27279cfe7fc0416c10a81489826ad47e39013b9d340fc0cc7"
+      },
+      "../../../../../usr/local/cellar/node/12.6.0/lib/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "f2039e0dbc31f69183f6377b368c033802dfdcf77e5fd214def06c1fd7b225ed",
+        "signature": "f2039e0dbc31f69183f6377b368c033802dfdcf77e5fd214def06c1fd7b225ed"
+      },
+      "../../../../../usr/local/cellar/node/12.6.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "../../../../../usr/local/cellar/node/12.6.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "./src/main.ts": {
+        "version": "ed01fe9fd460c36f4bdb59a70306aad2d55ffbd1ac26f80186aaa072100d8c31",
+        "signature": "177d1627daf474fd303f9b670d03495cb620c16608a29856514a05f562a02a61"
+      }
+    },
+    "options": {
+      "target": 0,
+      "module": 99,
+      "allowJs": true,
+      "checkJs": false,
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "composite": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {},
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": [
+      "../../../../../usr/local/cellar/node/12.6.0/lib/node_modules/typescript/lib/lib.d.ts",
+      "./src/main.ts",
+      "../../../../../usr/local/cellar/node/12.6.0/lib/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../../../usr/local/cellar/node/12.6.0/lib/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../../../usr/local/cellar/node/12.6.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../../../../../usr/local/cellar/node/12.6.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts"
+    ]
+  },
+  "version": "3.8.3"
+}
